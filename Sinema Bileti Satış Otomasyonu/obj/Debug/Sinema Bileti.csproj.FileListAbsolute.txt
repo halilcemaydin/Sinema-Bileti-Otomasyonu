@@ -1,0 +1,24 @@
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.exe.config
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.exe
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.pdb
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.AssemblyReference.cache
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Form1.resources
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Properties.Resources.resources
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.GenerateResource.cache
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.CoreCompileInputs.cache
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.exe
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.pdb
+D:\Dersler\Console\İf else\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Form2.resources
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.exe.config
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.exe
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\bin\Debug\Sinema Bileti.pdb
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.AssemblyReference.cache
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Form1.resources
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Form2.resources
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema_Bileti.Properties.Resources.resources
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.GenerateResource.cache
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.csproj.CoreCompileInputs.cache
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.exe
+D:\Dersler\Console\Windows Form App\Sinemaa\Sinema Bileti\obj\Debug\Sinema Bileti.pdb
